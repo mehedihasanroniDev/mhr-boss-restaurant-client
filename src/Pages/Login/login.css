@@ -1,0 +1,35 @@
+.bgImage{
+    background-image: url('../../assets/others/authentication.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.custom-captcha-container::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #000;
+}
+
+.custom-captcha-text {
+    color: #fff;
+}
+
+.btn4 {
+    padding: 0.7em 2.5em;
+    font-size: 1em;
+    font-weight: 700;
+    color: #fff;
+    background-image: linear-gradient(75deg,#805b22,#ba8532,#c08933,#33240d);
+    background-size: 300%;
+    background-position: left;
+    transition: .3s background-position ease-in-out;
+}
+
+.custom-title-class{
+    color: rgba(218, 37, 37, 0.842);
+    font-weight: 600;
+}
