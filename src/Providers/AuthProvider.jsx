@@ -1,9 +1,9 @@
-import { createContext, useEffect, useState } from "react";
+import { createContext, useEffect, useState } from "react" ;
 import { GithubAuthProvider,  GoogleAuthProvider , createUserWithEmailAndPassword,   onAuthStateChanged, sendPasswordResetEmail, signInWithEmailAndPassword, signInWithPopup, signOut } from "firebase/auth";
-import { auth } from "../Configs/firebase.config";
-import useAxiosPublic from "../Hooks/useAxiosPublic";
+import { auth } from "../Configs/firebase.config" ;
+import useAxiosPublic from "../Hooks/useAxiosPublic" ;
 
-export const AuthContext = createContext();
+export const AuthContext = createContext() ;
 
 const googleProvider =new GoogleAuthProvider()
 const githubProvider =new GithubAuthProvider()
