@@ -92,3 +92,23 @@ Used some packages to make some functionalities easier to build:
 - [Client-Side Repo](https://github.com/mehedihasanroniDev/mhr-boss-restaurant-client)
 - [Server-Side Repo](https://github.com/mehedihasanroniDev/mhr-boss-restaurant-server)
 
+
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://react.dev/
+[MongoDB]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+[MongoDB-url]: https://www.mongodb.com/
+[NodeJS]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
+[NodeJs-url]: https://nodejs.org/en
+[Firebase]: https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
+[Firebase-url]: https://firebase.google.com/
+[DaisyUI]: https://img.shields.io/badge/DaisyUI-FF7F50?style=for-the-badge&logo=daisy&logoColor=white
+[DaisyUI-url]: https://daisyui.com/
+[Tailwindcss]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+[Tailwindcss-url]: https://tailwindcss.com/
+[Vite]: https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white
+[Vite-url]: https://vitejs.dev/guide/
+[Swiper.js]: https://img.shields.io/badge/Swiper-6332f6?style=for-the-badge&logo=swiper&logoColor=white
+[Swiperjs-url]: https://swiperjs.com/
+[Stripe]: https://img.shields.io/badge/Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white
+[Stripe-url]: https://stripe.com/
+
