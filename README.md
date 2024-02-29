@@ -24,6 +24,7 @@
  <a align='center' href="https://mhr-boss-restaurant.web.app/">
     <img align='center' src="https://i.ibb.co/rykdJ1w/mhr-boss-restaurant-home-page.png" alt="Logo" width="1000px" height="400">
     <img align='center' src="https://i.ibb.co/56Nmz56/mhr-boss-restaurant-HOME-Image1.png" alt="Logo" width="1000px" height="400">
+    <img align='center' src="https://i.ibb.co/ZBDRSp1/mhr-boss-restaurant-HOME-Image2.png" alt="Logo" width="1000px" height="400">
   </a>
 
 <br/>
